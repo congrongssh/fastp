@@ -19,6 +19,7 @@ A tool designed to provide fast all-in-one preprocessing for FastQ files. This t
 * [all options](#all-options)
 * [citation](#citation)
 
+## little changes
 # features
 1. filter out bad reads (too low quality, too short, or too many N...)
 2. cut low quality bases for per read in its 5' and 3' by evaluating the mean quality from a sliding window (like Trimmomatic but faster).
