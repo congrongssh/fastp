@@ -1,4 +1,4 @@
-#[![install with conda](
+[![install with conda](
 https://anaconda.org/bioconda/fastp/badges/version.svg)](https://anaconda.org/bioconda/fastp)
 [![install with conda](
 https://anaconda.org/bioconda/fastp/badges/downloads.svg)](https://anaconda.org/bioconda/fastp)  
